@@ -192,5 +192,5 @@ class MyApp(Adw.Application):
         print("\nReceived Ctrl+C. Cleaning up and exiting...")
         self.quit()
 
-app = MyApp(application_id="com.example.AdwApplication")
+app = MyApp(application_id="io.github.sigmasd.share")
 app.run(None)
