@@ -1,3 +1,5 @@
+Updated version at https://github.com/sigmaSd/qr-share
+
 # Share
 
 Drop a file into this app to generate a qr code that you can scan to download the file.
